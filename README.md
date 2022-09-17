@@ -9,21 +9,6 @@ Registration form which includes name, email, password and DOB based on HTML & C
 .
 .
 .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-HERE IS THE LIVE SITE...
-https://sarthakyelne.github.io/Registration-form-HTML-CSS/
+Here is the Live Site
+                                                          https://sarthakyelne.github.io/Registration-form-HTML-CSS/
 
