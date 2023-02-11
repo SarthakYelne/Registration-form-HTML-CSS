@@ -3,7 +3,7 @@ body{
   flex-direction: column;
   align-items: center;
   min-height: 100vh;
-  background-image: bg-gray-400;
+  background-image: bg-gray-700;
   /* background-image: radial-gradient(at 50% 40% ,#000 0%,#555 ); */
   background-repeat: no-repeat;
 }
