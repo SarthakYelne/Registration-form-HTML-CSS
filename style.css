@@ -3,14 +3,14 @@ body{
   flex-direction: column;
   align-items: center;
   min-height: 100vh;
-  background-image: conic-gradient(at 50% -30%,#201 0deg 90deg,rgb(122, 74, 201) 90deg,rgb(30, 28, 28) 180deg,#000 270deg);
+  background-image: bg-gray-400;
   /* background-image: radial-gradient(at 50% 40% ,#000 0%,#555 ); */
   background-repeat: no-repeat;
 }
 
 
 table{
-  width: 70vw;
+  width: 100px;
   color: rgb(84, 244, 151);
 }
 th{
